@@ -9,5 +9,5 @@
  * @author ACER
  */
 public class abtract {
-    
+    //Day chang qua la them thôi
 }
